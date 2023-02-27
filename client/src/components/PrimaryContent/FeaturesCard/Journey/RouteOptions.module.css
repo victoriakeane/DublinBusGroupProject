@@ -1,0 +1,8 @@
+.tripSummary {
+  margin-right: auto;
+   text-overflow: ellipsis; 
+   overflow: hidden; 
+   white-space: nowrap; 
+   max-width: 17rem;
+   align-self: center;
+}
