@@ -1,8 +1,12 @@
 # DublinBusGroupProject
 
+
+
 ***ORIGINAL REPO REF: https://github.com/kevinobrien97/comp47360_SummerGroupProject ***
 
-
+<img src = "https://giphy.com/gifs/e5bNjlMCcfv0cSzlS5"
+ width="100" height="100" />
+ 
 # ShuttleUp Installation Guide 
 
 Clone repo and run the following:
