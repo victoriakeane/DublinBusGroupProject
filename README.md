@@ -4,8 +4,8 @@
 
 ***ORIGINAL REPO REF: https://github.com/kevinobrien97/comp47360_SummerGroupProject ***
 
-<img src = "https://giphy.com/gifs/e5bNjlMCcfv0cSzlS5"
- width="100" height="100" />
+<img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTQyNmI1YmRhNmVkZjBhOTkzYjZmYzUyY2MyNThiNWU2ZWNkMjFlMiZjdD1n/e5bNjlMCcfv0cSzlS5/giphy.gif"
+ width="600" height="400" />
  
 # ShuttleUp Installation Guide 
 
