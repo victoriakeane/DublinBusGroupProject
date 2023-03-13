@@ -27,7 +27,7 @@ Viewers can search for individual bus routes, for which upon selection a list of
 
 Users can search for stops and their preferred departure time to find scheduled departures for various routes around that time. If user does not select a time it defaults to current. 
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhhZjhjZTRjYjdlNDc2OTZjNzhkMTI3ZTBhYTdmZjczN2M5YWFlMiZjdD1n/Vme1OPBENsJkQmQzGy/giphy.gif" height="600" width="330" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhhZjhjZTRjYjdlNDc2OTZjNzhkMTI3ZTBhYTdmZjczN2M5YWFlMiZjdD1n/Vme1OPBENsJkQmQzGy/giphy.gif" height="600" width="270" />
  
  
  ***ORIGINAL REPO REF: https://github.com/kevinobrien97/comp47360_SummerGroupProject ***
